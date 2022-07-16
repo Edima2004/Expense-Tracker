@@ -65,10 +65,10 @@ const AddTransaction = () => {
       <ReactPlayer
         url="./musicVideo.mp4"
         controls
-        width="400px"
+        width="350px"
         height="240px"
       />
-      <a href="#">up</a>
+   
     </div>
   );
 };

@@ -17,6 +17,7 @@ const Numbers = ({ postsPerPage, totalPosts, paginate }) => {
           </li>
         ))}
       </ul>
+      <a href="#">up</a>
     </nav>
   );
 };
